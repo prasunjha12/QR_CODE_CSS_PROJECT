@@ -25,13 +25,13 @@ body {
 }
 
 p {
-  text-align:center;
   color: hsl(220, 15%, 55%);
-  font-family: "Outfit", sans-serif;
 }
 h1 {
-  text-align:center;
   font-size: 1.2rem;
   color: hsl(218, 44%, 22%);
+}
+.card-content {
+  text-align: center;
   font-family: "Outfit", sans-serif;
 }
